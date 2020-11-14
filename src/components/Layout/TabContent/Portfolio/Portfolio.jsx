@@ -1,9 +1,8 @@
 import React from 'react';
 import Photo from './Photo/Photo';
-import './Photos.css';
+import './Portfolio.css';
 
 export default function Photos(props) {
-  console.log("props.photos: " + JSON.stringify(props.photos, null, 4));
   return (
     <section>
       <div className="buffer" />

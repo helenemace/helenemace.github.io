@@ -6,7 +6,7 @@ import About from './TabContent/About/About';
 import Contact from './TabContent/Contact/Contact';
 import photoUrls from '../../assets/photoUrls';
 import './Layout.css';
-import Photos from './TabContent/Photos/Photos';
+import Portfolio from './TabContent/Portfolio/Portfolio';
 
 export default function Layout() {
   return (
@@ -20,7 +20,7 @@ export default function Layout() {
         </TabList>
         <TabPanel>
           <ContentWrapper>
-            <Photos
+            <Portfolio
               photos = {photoUrls}
             />
           </ContentWrapper>
