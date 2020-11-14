@@ -1,0 +1,48 @@
+section {
+  display: flex;
+  justify-content: center;
+}
+
+section > ul {
+  display: flex;
+  flex-grow: 0;
+  margin: 0 20px;
+  padding: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-basis: 1000px;
+  justify-content: center;
+  /* max-width: 1000px; */
+}
+
+section > ul > li {
+  flex-grow: 0;
+  flex-basis: 30%;
+  min-height: 200px;
+  height: auto;
+  margin: 4px;
+}
+
+section > div.buffer {
+  max-width: 30vw;
+  flex-grow: 100;
+}
+
+ul > li > img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+
+@media (max-width: 700px) {
+  section > ul > li {
+    flex-basis: 45%;
+  }
+}
+
+@media (max-width: 500px) {
+  section > ul > li {
+    flex-basis: 95%;
+  }
+}
