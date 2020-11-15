@@ -1,5 +1,5 @@
 import React from 'react';
-// import './ContentWrapper.css';
+import './Photo.css';
 
 export default function Photo(props) {
   return (
