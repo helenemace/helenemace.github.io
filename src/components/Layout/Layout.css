@@ -8,10 +8,10 @@ ul.react-tabs__tab-list {
 
 li.react-tabs__tab {
   padding: 10px 1vw 10px;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   border-bottom: none;
   cursor: pointer;
-  background: whitesmoke;
+  background: var(--main-bg);
   outline: none;
 }
 
