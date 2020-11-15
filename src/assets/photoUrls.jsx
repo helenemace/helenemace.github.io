@@ -1,7 +1,7 @@
 // example import:
 // import chocolate from '../assets/chocolate.jpg';
 
-//  to test with placeholders where you can set the size:
+//  to test with placeholders and set the size:
 //     {
 //       url: "https://via.placeholder.com/500x300",
 //     },

@@ -12,6 +12,8 @@
   --h1-color: var(--alt-text);
   --header-bg: var(--main-dark);
   --alt-bg-opaque: rgba(38, 38, 114, 0.5);
+  --img-border: black;
+  --img-border-hover: var(--alt-bg);
 
   --header-text: #ffffff;
   --button: var(--main-dark);
