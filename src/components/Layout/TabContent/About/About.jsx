@@ -4,7 +4,8 @@ import React from 'react';
 export default function About(props) {
   return (
     <div>
-      About
+      <h2>Hélène Macé</h2>
+      <p>Food photographer</p> 
     </div>
   )
 }
