@@ -1,5 +1,5 @@
 import React from 'react';
-// import './ContentWrapper.css';
+import './About.css';
 
 export default function About(props) {
   return (
