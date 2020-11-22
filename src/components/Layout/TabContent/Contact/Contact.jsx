@@ -1,10 +1,10 @@
 import React from 'react';
-// import './ContentWrapper.css';
+// import './Contact.css';
 
 export default function Contact(props) {
   return (
     <div>
-      Contact
+      <h2>Hélène Macé</h2>
     </div>
   )
 }
