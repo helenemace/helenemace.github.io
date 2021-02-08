@@ -8,12 +8,14 @@ export default function Photos(props) {
     const [isVisible, setVisible] = useState(true);
     const domRef = useRef();
     useEffect(() => {
+      let domRefCurrent = domRef.current;
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => setVisible(entry.isIntersecting));
       });
       observer.observe(domRef.current);
-      return () => observer.unobserve(domRef.current);
+      return () => observer.unobserve(domRefCurrent);
     }, []);
+ 
     return (
       <div
         className={`fade-in-section ${isVisible && 'is-visible'}`}
