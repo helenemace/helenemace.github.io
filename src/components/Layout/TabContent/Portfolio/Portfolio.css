@@ -5,12 +5,12 @@ section {
 
 section > ul {
   display: flex;
-  flex-grow: 0;
+  flex-grow: 100;
   margin: 0 20px;
   padding: 0;
   flex-direction: row;
   flex-wrap: wrap;
-  flex-basis: 1000px;
+  flex-basis: 1200px;
   justify-content: center;
   /* max-width: 1000px; */
 }
@@ -24,13 +24,14 @@ section > ul > li {
 }
 
 section > div.buffer {
-  max-width: 30vw;
-  flex-grow: 100;
+  max-width: 10vw;
+  flex-grow: 0;
 }
 
 ul > li > img {
   max-height: 100%;
   max-width: 100%;
+  margin: 10px;
   object-fit: cover;
   vertical-align: bottom;
 }
@@ -39,7 +40,7 @@ ul > li > img {
   opacity: 0;
   transform: translateY(20vh);
   visibility: hidden;
-  transition: opacity 0.2s ease-out, transform 0.4s ease-out;
+  transition: opacity 0.4s ease, transform 0.4s ease-out;
   will-change: opacity, visibility;
 }
 
