@@ -37,6 +37,7 @@ export default function Photos(props) {
                 <Photo 
                   key={index}
                   url={photo.url}
+                  description={photo.description}
                 />
               </li>
             </FadeInSection>
