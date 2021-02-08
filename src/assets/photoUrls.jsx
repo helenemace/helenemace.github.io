@@ -41,105 +41,139 @@ import wafflesStack from '../assets/Wafflestack.jpg';
 export const photoURLs = [
   {
     url: basilLeaf,
+    description: "Personnal project: Herbs"
   },
   {
     url: caramel1,
+    description: "Authentic Caramel"
   },
   {
     url: caramel2,
+    description: "Authentic Caramel"
   },
   {
     url: caramel3,
+    description: "Authentic Caramel"
   },
   {
     url: caramel4,
+    description: "Authentic Caramel"
   },
   {
     url: caramel5,
+    description: "Authentic Caramel"
   },
   {
     url: caramel6,
+    description: "Authentic Caramel"
   },
   {
     url: caramel7,
+    description: "Authentic Caramel"
   },
   {
     url: caramel8,
+    description: "Authentic Caramel"
   },
   {
     url: caramel9,
+    description: "Authentic Caramel"
   },
   {
     url: chocolate,
+    description: "Personnal project: Chocolate"
   },
   {
     url: chocolateBrownieCookie1,
+    description: "Personnal project: Cookies"
   },
   {
     url: chocolateBrownieCookie2,
+    description: "Personnal project: Cookies"
   },
   {
     url: chocolateBrownieCookie3,
+    description: "Personnal project: Cookies"
   },
   {
     url: chocolateTart,
+    description: "Personnal project: Tarts"
   },
   {
     url: choux,
+    description: "Personnal project: Choux"
   },
   {
     url: gianduja,
+    description: "Personnal project: Gianduja"
   },
   {
     url: madeleine1,
+    description: "Personnal project: Madeleine"
   },
   {
     url: madeleine2,
+    description: "Personnal project: Madeleine"
   },
   {
     url: parisBrest3,
+    description: "Personnal project: Choux"
   },
   {
     url: praline1,
+    description: "Personnal project: Praliné"
   },
   {
     url: purplePeppers1,
+    description: "Personnal project: Vegetables"
   },
   {
     url: purplePeppers2,
+    description: "Personnal project: Vegetables"
   },
   {
     url: raspberryTart,
+    description: "Personnal project: Tarts"
   },
   {
     url: tarteAuxFraises,
+    description: "Personnal project: Tarts"
   },
   {
     url: waffleBite,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffleBreakfastTray,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffleDrizzle,
+    description: "Grandmama's Waffles"
   },
   {
     url: wafflePlate,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffles1,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffles2,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffles3,
+    description: "Grandmama's Waffles"
   },
   {
     url: waffleSandwich,
+    description: "Grandmama's Waffles"
   },
   {
     url: wafflesStack,
+    description: "Grandmama's Waffles"
   },
 ]
 
