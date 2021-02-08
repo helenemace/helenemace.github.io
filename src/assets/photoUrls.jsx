@@ -81,63 +81,63 @@ export const photoURLs = [
   },
   {
     url: chocolate,
-    description: "Personnal project: Chocolate"
+    description: "Personal project: Chocolate"
   },
   {
     url: chocolateBrownieCookie1,
-    description: "Personnal project: Cookies"
+    description: "Personal project: Cookies"
   },
   {
     url: chocolateBrownieCookie2,
-    description: "Personnal project: Cookies"
+    description: "Personal project: Cookies"
   },
   {
     url: chocolateBrownieCookie3,
-    description: "Personnal project: Cookies"
+    description: "Personal project: Cookies"
   },
   {
     url: chocolateTart,
-    description: "Personnal project: Tarts"
+    description: "Personal project: Tarts"
   },
   {
     url: choux,
-    description: "Personnal project: Choux"
+    description: "Personal project: Choux"
   },
   {
     url: gianduja,
-    description: "Personnal project: Gianduja"
+    description: "Personal project: Gianduja"
   },
   {
     url: madeleine1,
-    description: "Personnal project: Madeleine"
+    description: "Personal project: Madeleine"
   },
   {
     url: madeleine2,
-    description: "Personnal project: Madeleine"
+    description: "Personal project: Madeleine"
   },
   {
     url: parisBrest3,
-    description: "Personnal project: Choux"
+    description: "Personal project: Choux"
   },
   {
     url: praline1,
-    description: "Personnal project: Praliné"
+    description: "Personal project: Praliné"
   },
   {
     url: purplePeppers1,
-    description: "Personnal project: Vegetables"
+    description: "Personal project: Vegetables"
   },
   {
     url: purplePeppers2,
-    description: "Personnal project: Vegetables"
+    description: "Personal project: Vegetables"
   },
   {
     url: raspberryTart,
-    description: "Personnal project: Tarts"
+    description: "Personal project: Tarts"
   },
   {
     url: tarteAuxFraises,
-    description: "Personnal project: Tarts"
+    description: "Personal project: Tarts"
   },
   {
     url: waffleBite,
